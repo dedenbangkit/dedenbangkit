@@ -10,7 +10,7 @@ I have familiarized myself with various political ideologies, including those th
 ...OK
 </p>
 <p align="left">
-Furthermore, the advanced features of org-mode, such as tagging, search capabilities, and agenda views, can greatly support government officials in efficiently navigating and accessing information. Implementing org-mode as a productivity tool can contribute to improved organization, streamlined workflows, and enhanced collaboration among civil servants. While it may be an ambitious goal, envisioning a scenario where all civil servants in Indonesia adopt and benefit from org-mode's capabilities can inspire increased productivity and effectiveness in government operations. Let's embrace the potential of org-mode and work towards optimizing our work processes for the benefit of all. 😄
+Furthermore, the advanced features of org-mode, such as tagging, search capabilities, and agenda views, can greatly support government officials in efficiently navigating and accessing information. Implementing org-mode as a productivity tool can contribute to improved organization, streamlined workflows, and enhanced collaboration among civil servants. While it may be an ambitious goal, envisioning a scenario where all civil servants in Indonesia adopt and benefit from org-mode's capabilities can inspire increased productivity and effectiveness in government operations. Let's embrace the potential of org-mode and work towards optimizing our work processes for the benefit of all. 😄 LOL, why you so serious...
 </p>
 
 <hr />
