@@ -1,9 +1,28 @@
 <h3 align="center">About Me</h3>
-<p align="center">Country: Indonesia 🇮🇩</p>
+<hr />
+<p align="left">
+Greetings, My name is <b>Deden Bangkit</b>. I am someone who has great ambitions in developing a career in politics. As a developer, I possess strong technical skills in organizing information, problem-solving, and automation.
+</p>
+<p align="left">
+I have familiarized myself with various political ideologies, including those that fall within the <i>right-wing</i> spectrum. I also have personal beliefs and religion that serve as the foundation for my political views.
+</p>
+<p align="left">
+...OK
+</p>
+<p align="left">
+Furthermore, the advanced features of org-mode, such as tagging, search capabilities, and agenda views, can greatly support government officials in efficiently navigating and accessing information. Implementing org-mode as a productivity tool can contribute to improved organization, streamlined workflows, and enhanced collaboration among civil servants. While it may be an ambitious goal, envisioning a scenario where all civil servants in Indonesia adopt and benefit from org-mode's capabilities can inspire increased productivity and effectiveness in government operations. Let's embrace the potential of org-mode and work towards optimizing our work processes for the benefit of all. 😄
+</p>
+
 <hr />
 <p align="center">
-Hello, My name is *Deden Bangkit*. I am someone who has great ambitions in developing a career in politics. As a developer, I possess strong technical skills in organizing information, problem-solving, and automation. I have studied right-wing political movements and have an understanding of the complexities of politics involving intrigues and conflicting interests. I believe that with my current abilities, I can bring positive changes in governance and improve many aspects with an organized and logical approach. I also have personal beliefs and religion that serve as the foundation for my political views.
+  <a href="https://github.com/dedenbangkit">
+    <img
+      width="808"
+      src="https://raw.githubusercontent.com/dedenbangkit/dedenbangkit/a96db461162b07728b98d365cb0437cfa1719e5e/assets/intro.png"
+    />
+  </a>
 </p>
+
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
     <img
@@ -63,16 +82,6 @@ Hello, My name is *Deden Bangkit*. I am someone who has great ambitions in devel
     <img
       width="808"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedenbangkit&langs_count=10&exclude_repo=&hide=php,javascript,jupyter%20notebook,cmake,makefile,batchfile,css,html,vim%20script&layout=default&card_width=808&hide_border=true&theme=aura_dark"
-    />
-  </a>
-</p>
-
-<hr />
-<p align="center">
-  <a href="https://github.com/dedenbangkit">
-    <img
-      width="808"
-      src="https://raw.githubusercontent.com/dedenbangkit/dedenbangkit/a96db461162b07728b98d365cb0437cfa1719e5e/assets/intro.png"
     />
   </a>
 </p>
