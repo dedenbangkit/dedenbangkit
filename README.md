@@ -1,6 +1,9 @@
-<h3 align="center">Hello, My name is Deden Bangkit</h3>
-<hr />
+<h3 align="center">About Me</h3>
 <p align="center">Country: Indonesia 🇮🇩</p>
+<hr />
+<p align="center">
+Hello, My name is *Deden Bangkit*. I am someone who has great ambitions in developing a career in politics. As a developer, I possess strong technical skills in organizing information, problem-solving, and automation. I have studied right-wing political movements and have an understanding of the complexities of politics involving intrigues and conflicting interests. I believe that with my current abilities, I can bring positive changes in governance and improve many aspects with an organized and logical approach. I also have personal beliefs and religion that serve as the foundation for my political views.
+</p>
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
     <img
@@ -65,10 +68,6 @@
 </p>
 
 <hr />
-<h3 align="center">About Me</h3>
-<p align="center">
-I am someone who has great ambitions in developing a career in politics. As a developer, I possess strong technical skills in organizing information, problem-solving, and automation. I have studied right-wing political movements and have an understanding of the complexities of politics involving intrigues and conflicting interests. I believe that with my current abilities, I can bring positive changes in governance and improve many aspects with an organized and logical approach. I also have personal beliefs and religion that serve as the foundation for my political views.
-</p>
 <p align="center">
   <a href="https://github.com/dedenbangkit">
     <img
