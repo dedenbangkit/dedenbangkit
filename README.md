@@ -65,6 +65,20 @@
 </p>
 
 <hr />
+<h3 align="center">About Me</h3>
+<p align="center">
+I am someone who has great ambitions in developing a career in politics. As a developer, I possess strong technical skills in organizing information, problem-solving, and automation. I have studied right-wing political movements and have an understanding of the complexities of politics involving intrigues and conflicting interests. I believe that with my current abilities, I can bring positive changes in governance and improve many aspects with an organized and logical approach. I also have personal beliefs and religion that serve as the foundation for my political views.
+</p>
+<p align="center">
+  <a href="https://github.com/dedenbangkit">
+    <img
+      width="808"
+      src="https://raw.githubusercontent.com/dedenbangkit/dedenbangkit/a96db461162b07728b98d365cb0437cfa1719e5e/assets/intro.png"
+    />
+  </a>
+</p>
+
+<hr />
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer">
     <img
