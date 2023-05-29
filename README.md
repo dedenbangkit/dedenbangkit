@@ -1,16 +1,13 @@
 <h3 align="center">About Me</h3>
 <hr />
 <p align="left">
-Greetings, My name is <b>Deden Bangkit</b>. I am someone who has great ambitions in developing a career in politics. As a developer, I possess strong technical skills in organizing information, problem-solving, and automation.
+Greetings, My name is <b>Deden Bangkit</b>
 </p>
 <p align="left">
-I have familiarized myself with various political ideologies, including those that fall within the <i>right-wing</i> spectrum. I also have personal beliefs and religion that serve as the foundation for my political views.
+I am a driven individual with a strong passion for politics and a desire to make a meaningful impact in society. With a background in development and a range of technical skills, I possess the ability to organize information, solve complex problems, and automate processes efficiently. Having extensively studied various political ideologies, including those within the right-wing spectrum, I have developed a well-rounded understanding of different perspectives. My personal beliefs and religious values serve as the foundation for my political views, which guide my commitment to advocating for principles I hold dear.
 </p>
 <p align="left">
-...OK
-</p>
-<p align="left">
-Furthermore, the advanced features of org-mode, such as tagging, search capabilities, and agenda views, can greatly support government officials in efficiently navigating and accessing information. Implementing org-mode as a productivity tool can contribute to improved organization, streamlined workflows, and enhanced collaboration among civil servants. While it may be an ambitious goal, envisioning a scenario where all civil servants in Indonesia adopt and benefit from org-mode's capabilities can inspire increased productivity and effectiveness in government operations. Let's embrace the potential of org-mode and work towards optimizing our work processes for the benefit of all. 😄 LOL, why you so serious...
+By combining my technical expertise with my political aspirations, I strive to contribute to the development of effective and productive governance systems that benefit all members of society. I am dedicated to embracing innovative tools, such as org-mode, to optimize work processes, enhance collaboration among civil servants, and ultimately achieve positive change. With a blend of seriousness and approachability, I am eager to engage in meaningful dialogue, build connections, and work towards a better future for all.
 </p>
 
 <hr />
