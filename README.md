@@ -78,7 +78,7 @@ By combining my technical expertise with my political aspirations, I strive to c
   <a href="https://github.com/dedenbangkit">
     <img
       width="808"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedenbangkit&langs_count=10&exclude_repo=&hide=php,javascript,jupyter%20notebook,cmake,makefile,batchfile,css,html,vim%20script&layout=default&card_width=808&hide_border=true&theme=aura_dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedenbangkit&hide_border=true&theme=aura_dark&langs_count=10&card_width=808&hide=php,javascript,jupyter%20notebook,cmake,makefile,batchfile,css,html,vim%20script"
     />
   </a>
 </p>
