@@ -458,3 +458,13 @@ By combining my technical expertise with my political aspirations, I strive to c
       width="40"
   /></a>
 </p>
+
+<hr />
+<p align="center">
+  <a href="https://youtube.com/@bangunjiwo" target="blank">
+    <img
+      width="808"
+      src="https://raw.githubusercontent.com/dedenbangkit/dedenbangkit/main/assets/motivation-nation-2.png"
+    />
+  </a>
+</p>
