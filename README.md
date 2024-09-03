@@ -72,13 +72,13 @@ By combining my technical expertise with my political aspirations, I strive to c
   <a href="https://github.com/dedenbangkit">
     <img
       width="401"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dedenbangkit&theme=aura_dark"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dedenbangkit&theme=aura_dark"
     />
   </a>
   <a href="https://github.com/dedenbangkit">
     <img
       width="808"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedenbangkit&hide_border=true&theme=aura_dark&langs_count=10&card_width=808&hide=php,javascript,jupyter%20notebook,cmake,makefile,batchfile,css,html,vim%20script"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedenbangkit&hide_border=true&theme=aura_dark&langs_count=10&card_width=808&hide=php,javascript,jupyter%20notebook,cmake,makefile,batchfile,css,html,blade,vim%20script"
     />
   </a>
 </p>
